@@ -14,66 +14,62 @@ Turma teens Reprograma | Front-end básico | 2020 | Fundamentos de HTML e CSS I
 
 ## CONTEÚDO AULA 31 OUTUBRO, SÁBADO, 13h30 - 17H30
 
-- [] **Apresentações**
-- [] **Combinados**
-- [] **Apresentação PowerPoint parte1**
-  - [] Cliente e Servidor
-  - [] O que é linguagem de marcação de hipertexto? `<!DOCTYPE html>`
-  - [] Elementos HTML: tags (etiquetas) e atributos
-  - [] Elementos `<head>` e `<body>`
-- [] **Preparando estrutura de desenvolvimento juntas**
-  - [] Criando pastas e arquivos, baixando live-server
-- [] **Mãos a obra, criando nosso primeiro html**
-    - [] Tags usadas no `<head>` e no `<body>`
-    - [] Exemplo com imagens `<img>` e seus atributos `src` `alt`, títulos `<h1>` e parágrafos `<p>`
-    - [] Tags semânticas, como e porque usá-las! (:
-    - [] `<header>` `<nav>` `<footer>` `<main>` `<section>` `<article>` `<ul>` `<ol>` `<li>` 
-    - [] `<a>` - links em âncora, e seu atributo `href`
-- [] **Intervalo** - 15min
-- [] **Retomando tags no powerpoint + tirar dúvidas**  
-- [] **Introdução CSS**
-  - [] CSS - Folha de estilo em cascata
-    - [] Diferentes formas de adicionar estilo à página
-      - [] A tag e atributo `<style>`
-      - [] Importar arquivo style.css através da tag `<link>`
-  - [] - Estilizando o CSS juntas - propriedades básicas `color` `bg-color` `font-size` `font-family`
-  - [] Seletores CSS - `.class` `#id` `elemento` `atributo`
-  - [] Especificidade com seletores, propriedades CSS e efeito cascata
-- [] **Box-sizings (tamanho das caixas) e displays**
-  - [] Blocos `<div>` e elementos em linha `<span>`, `<img>`
-  - [] Displays block, inline, inline-block
-  - [] Mexendo em bordas, margens, preenchimentos e conteúdo  
-    - [] `border` `margin` `padding` `width` `height` 
-- [] **Powerpoint parte III retomando a tarde**
-    - [] Responder dúvidas
-    - [] Apresentar exercícios da semana, para entregar na sexta (06/11)
-    - [] Mostrar como subir exercício no netlify
+- [x] **Apresentações**
+- [x] **Combinados**
+- [x] **Apresentação PowerPoint parte1**
+  - [x] Cliente e Servidor
+  - [x] O que é linguagem de marcação de hipertexto? `<!DOCTYPE html>`
+  - [x] Elementos HTML: tags (etiquetas) e atributos
+  - [x] Elementos `<head>` e `<body>`
+- [x] **Preparando estrutura de desenvolvimento juntas**
+  - [x] Criando pastas e arquivos, baixando live-server
+- [x] **Mãos a obra, criando nosso primeiro html**
+    - [x] Tags usadas no `<head>` e no `<body>`
+    - [x] Exemplo com imagens `<img>` e seus atributos `src` `alt`, títulos `<h1>` e parágrafos `<p>`
+    - [x] Tags semânticas, como e porque usá-las! (:
+    - [x] `<header>` `<nav>` `<footer>` `<main>` `<section>` `<article>` `<ul>` `<ol>` `<li>` 
+    - [x] `<a>` - links em âncora, e seu atributo `href`
+- [x] **Intervalo** - 15min
+- [x] **Retomando tags no powerpoint + tirar dúvidas**  
+- [x] **Introdução CSS**
+  - [x] CSS - Folha de estilo em cascata
+    - [x] Diferentes formas de adicionar estilo à página
+      - [x] A tag e atributo `<style>`
+      - [x] Importar arquivo style.css através da tag `<link>`
+  - [x] - Estilizando o CSS juntas - propriedades básicas `color` `bg-color` `font-size` `font-family`
+  - [x] Seletores CSS - `.class` `#id` `elemento` `atributo`
+  - [x] Especificidade com seletores, propriedades CSS e efeito cascata
+- [x] **Powerpoint parte III retomando a tarde**
+    - [x] Responder dúvidas
+    - [x] Apresentar exercícios da semana, para entregar na sexta (06/11)
+  
 
 ---
 
 
 ## CONTEÚDO AULA 4 DE NOVEMBRO, QUARTA, 13h30 - 17h30
-- [] **Dúvidas da semana**
-- [] **Usando o inspetor do navegador**
-- [] **Reset básico - mexendo nos estilos padrão de página**
-  - [] - elemento `*`
-  - [] border-box vs content-box
-- [] **Display flex - o famoso Flexbox**
-  - [] Mães `<div>`as e filhas `<div>`inhas. Display na mãe, mexe as filhas.
-  - [] Algumas propiedades e seus valores: `justify-content` `align-items` `align-content` `flex-direction` 
-- [] **Intervalo** - 15min
-- [] **Tempo para dúvidas responder mais dúvidas :)**
-- [] **Criando juntas**  
-- [] **Mais algumas dicas importantes**
-  - [] Endentar o código :)
-  - [] Importando fontes externas (ex.: Google Fonts)
-  - [] `background-image`
-  - [] Nomeando classes pra não se perder, introdução ao método BEM
-  - [] Criando navBar e um footer
-  - [] criando uma section
-  - [] pesudo-classes
-    - [] `:hover`
-- [] **Retirar dúvidas sobre exercícios e falar sobre materiais e jogos de CSS disponíveis :)**
+- [x] **Dúvidas da semana**
+- [x] **Usando o inspetor do navegador**
+- [x] **Reset básico - mexendo nos estilos padrão de página**
+  - [x] - elemento `*`
+  - [x] border-box vs content-box
+- [x] **Box-sizings (tamanho das caixas) e displays**
+  - [x] Blocos `<div>` e elementos em linha `<span>`, `<img>`
+  - [x] Displays block, inline, inline-block
+  - [x] Mexendo em bordas, margens, preenchimentos e conteúdo  
+    - [x] `border` `margin` `padding` `width` `height` 
+- [x] **Display flex - o famoso Flexbox**
+  - [x] Mães `<div>`as e filhas `<div>`inhas. Display na mãe, mexe as filhas.
+  - [x] Algumas propiedades e seus valores: `justify-content` `align-items` `align-content` `flex-direction` `flex-wrap ` 
+- [x] **Intervalo** - 15min
+- [x] **Tempo para dúvidas responder mais dúvidas :)**
+- [x] **Criando juntas**  
+- [x] **Mais algumas dicas importantes**
+  - [x] Endentar o código :)
+  - [x] Importando fontes externas (ex.: Google Fonts)
+  - [x] Imagens de fundo `background-image`
+  - [x] Nomeando classes pra não se perder, introdução ao método BEM
+- [x] **Retirar dúvidas sobre exercícios e falar sobre materiais e jogos de CSS disponíveis :)**
 
 ---
 
