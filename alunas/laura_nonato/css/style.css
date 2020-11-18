@@ -1,0 +1,33 @@
+* {
+    background-color: rgb(130, 218, 253);
+    color: black;
+    font-family: 'Playfair Display', serif;
+}
+.inicio {
+    font-size: 50px;
+    color: black;
+}
+
+
+p {
+    font-size: 20px;
+    color: black;
+}
+.imagem {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+.biografia {
+    font-size: ;
+}
+
+.listinha {
+    font-size: 20px;
+    color: black;
+
+}
+.subtitulo_h3 {
+    font-size: 25px;
+    color: black;
+}

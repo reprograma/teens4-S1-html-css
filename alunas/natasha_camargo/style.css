@@ -1,0 +1,106 @@
+
+*{
+    background-color: rgb(6, 3, 37);
+    color: springgreen;
+    font-size: 20px;
+}
+.foto_comeco {
+    max-width: 250px;
+    max-height: 450px;
+    width: auto;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 8px solid springgreen;
+    
+}
+.titulo {
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Henny Penny', cursive;
+}
+.primeiro_paragrafo {
+    text-align: center;
+}
+.biografia {
+    font-family: 'Itim', cursive;
+    font-size: 20px;
+    text-align: center;
+}
+.foto_overwatch {
+    max-width: 150px;
+    max-height: 350px;
+    width: auto;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 8px solid springgreen;
+    
+}
+.foto_brawlhalla {
+    max-width: 150px;
+    max-height: 350px;
+    width: auto;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 8px solid springgreen;
+    
+}
+.foto_needforspeed {
+    max-width: 150px;
+    max-height: 350px;
+    width: auto;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 8px solid springgreen;
+    
+}
+.foto_pes {
+    max-width: 150px;
+    max-height: 350px;
+    width: auto;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 8px solid springgreen;
+    
+}
+div {
+    width: 150px;
+    display: inline-block;       
+    margin: 70px;
+    text-align: center;
+}
+section {
+    font-family: 'Itim', cursive;
+}
+.informacao {
+    padding-bottom: 10px;
+}
+main {
+    font-family: 'Itim', cursive;
+}
+.site_needforspeed {
+text-align: center;
+}
+.site_brawlhalla {
+    text-align: center;
+}
+.site_overwatch {
+    text-align: center;
+}
+.site_pes {
+    text-align: center;
+}
+.final {
+    text-align: center;
+    text-decoration: none;
+}
+

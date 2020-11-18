@@ -1,0 +1,125 @@
+body {
+    background-color: rgb(204, 235, 250);
+}
+h1 {
+    font-size: 70px ;
+    font-family: Georgia;
+}
+
+h2 {
+    font-size: 60px;
+    font-family: Georgia;
+    text-align: center;
+}
+
+h3 {
+    font-size: 50px;
+    font-family: Georgia;
+}
+.titulo {
+    text-align: center;
+    padding: 30px;
+}
+
+.fotoprincipal {
+    width: 180px;
+    height: 180px;
+    position: absolute;
+    left: 1100px;
+    top: 5px;
+}
+.nav {
+    text-align: center;
+}
+ul.nav {
+   padding: 0;
+   margin:0;
+}
+
+ul.nav li {
+    
+    list-style:none;
+    display:inline;
+    
+}
+
+ul.nav a {
+    border:30px;
+    width: 30px;
+    font: 'Times New Roman';
+    color:black;
+    background: rgb(250, 158, 193);
+    text-align: center;
+    font-size: 40px;
+    padding:30px;
+    text-decoration: none;
+}
+
+ul.nav a:hover {
+    background: rgb(255, 195, 218);
+    color:gray;
+    border-color:blue;
+
+}
+
+.bemvinda {
+    position: absolute;
+    left:390px;
+    top:310px;
+    width: 600px;
+}
+
+.line {
+    position: absolute;
+    width: 600px;
+    top: -175px;
+    left:400px;
+}
+
+.borda-gif {
+    position: absolute;
+    width: 340px;
+    top:405px;
+    left:485px;
+}
+.animais {
+    text-align: center;
+}
+
+.fotos {
+    text-align: center;
+}
+.girl {
+    text-align: center;
+}
+
+.footer {
+    position:absolute;
+    bottom:0;
+    width:100%;
+    text-align: left;
+    top:610px;
+}
+.footer1 {
+    position:absolute;
+    bottom:0;
+    width:100%;
+    text-align: left;
+    top:750px;
+}
+
+.footer2 {
+    position:absolute;
+    bottom:0;
+    width:100%;
+    text-align: left;
+    top:2740px;
+}
+
+.footer3 {
+    position:absolute;
+    bottom:0;
+    width:100%;
+    text-align: left;
+    top:900px;
+}

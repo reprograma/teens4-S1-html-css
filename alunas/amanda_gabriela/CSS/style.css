@@ -1,0 +1,79 @@
+body {
+    font-family: arial;
+    background-color: #f0bdbf;
+    color: #f0bdbf;
+}
+
+
+.titulo {
+    background-color: coral;
+    color: black;
+    font-family: Impact;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.curiosidades {
+    font-family: arial;
+    color: rgb(87, 85, 85);
+    text-align: left;
+    background-color: #db9a94; 
+}
+
+.imagemcasa > img {
+    width: 250px;
+    height: 200px;
+    display: flex;
+}
+
+
+.marteceu > img {
+    width: 250px;
+    height: 200px;
+    display: flex;
+}
+
+.martecratera > img {
+    width: 250px;
+    height: 200px;
+    display: flex;
+}
+
+.gridcontainer {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color:#E7BCB6;
+    padding: 10px;
+    align-content: center;
+    text-align: center;
+}
+
+
+.texto2 {
+    color: rgb(87, 85, 85);
+    text-align: end;
+}
+
+.div {
+    display: inline;
+}
+
+.listacurio {
+    list-style-type: square;
+}
+
+.listame {
+    list-style-position: inherit;
+    list-style-type: none;
+    text-align: end;
+}
+
+.title2 {
+    font-family: 'Pacifico', cursive;
+}
+
+.astroig {
+    font-family: 'EB Garamond', serif;
+}
+
+

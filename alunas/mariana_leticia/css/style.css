@@ -1,0 +1,134 @@
+
+*{
+    margin: 0;
+    font-family: 'Indie Flower', cursive;
+}
+
+.cabecalho {
+    background-color:rgb(151, 4, 4);
+}
+
+.titulo {
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+.apresentacao {
+    border: rgb(80, 137, 190) dotted 6px;
+    background-color: rgb(255, 239, 225);
+    color: rgb(151, 4, 4);
+    width: 700px;
+    left: 390px;
+    position: relative;
+    padding: 15px;
+    text-align: center;
+}
+    
+.miau {
+    background-attachment: fixed;
+    background-image: url(../imagens/gif-noragami.gif);
+    background-color: rgba(0, 0, 0, 10%);
+    /*eu juro que tentei deixar o gif transparente mas não deu, muito confuso, procurei na internet, testei algumas coisas mas não deu certo*/
+    /*eu sei que fiocu muito poluídokk*/
+}
+
+.tudo {
+    font-size: 24px;
+    color: rgb(151, 4, 4,);
+    text-align: center;
+}
+
+.nome1 {
+    margin-bottom:20px;
+}
+
+.imagem {
+    margin: 30px;
+}
+
+.desenho {
+    border: rgb(255, 201, 165) solid 7px;
+    padding: 20px;
+    color: white;
+}
+
+.jogo {
+    border: solid rgb(255, 201, 165) 7px;
+    padding: 4px;
+}
+
+.anime {
+    border: rgb(255, 201, 165) 7px solid;
+}
+
+p {
+    color: rgb(151, 4, 4);
+    border: solid white 3px;
+    border-width: 4px;
+    background-color:rgb(255, 216, 158);
+    position: relative;
+    width: 700px;
+    text-align: center;
+    left: 380px;
+    padding: 10px;
+    margin: 3px;
+}
+
+.suco {
+    color: rgb(151, 4, 4);
+    border: solid white 3px;
+    border-width: 4px;
+    background-color:rgb(255, 216, 158);
+    position: relative;
+    width: 400px;
+    text-align: center;
+    left: 540px;
+    padding: 20px;
+    margin: 3px;
+}
+
+/*por que eu criei esse "suco" e esse "iii" sendo que eles são quase iguais? basicamente os títulos e subtítulos não estavam alinhando e dei um jeitin para arrumar(não sei o que ocorreu) */
+
+.iii {
+    color: rgb(151, 4, 4);
+    border: solid white 3px;
+    border-width: 4px;
+    background-color:rgb(255, 216, 158);
+    position: relative;
+    width: 400px;
+    text-align: center;
+    left: 515px;
+    padding: 10px;
+    margin: 3px;
+}
+
+.hihi {
+    color: rgb(151, 4, 4);
+    border: solid white 3px;
+    border-width: 4px;
+    background-color:rgb(255, 216, 158);
+    position: relative;
+    width: 800px;
+    text-align: center;
+    left: 370px;
+    padding: 10px;
+    margin: 3px;
+}
+
+.sessaoFlex_imagem {
+    width: 1350px;
+    height:200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: center;
+    margin: 100px;
+}
+.rodape {
+    border: 2px solid rgb(151, 4, 4);
+    background-color:rgb(151, 4, 4);
+}
+/*eu entupi de gifs porque emociei, muito legal colocar eles*/
+
+
+/*não esquecer sobre formatar o documento; é só clicar com o botão direito */

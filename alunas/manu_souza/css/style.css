@@ -1,0 +1,30 @@
+main{
+    background-color: cornsilk; 
+}
+ h1{
+     color: lightslategrey;
+ }
+ h2{
+     color: lightslategrey;
+ }
+ h3{
+     color: lightslategrey;
+ }
+
+ article{
+     font-size:22px
+ }
+
+section{
+    font-size:22px
+}
+.imagem_manuela{ 
+ width: 300px
+
+}
+.titulo{
+    text-align: center; 
+     
+.sessao_lista{
+ display:inline-block
+}

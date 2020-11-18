@@ -1,0 +1,102 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Dosis', sans-serif; 
+    
+}
+
+body{
+    color: rgb(9, 14, 17);     
+    background-color: rgb(237, 210, 252);
+    text-align: center;
+}
+
+.cabeca{
+   background-image: url(../imagens/alpaca\ curiosa.png ); 
+   height: 840px;
+   background-size: auto;  
+   
+}
+
+.titulo_cabeca{
+    font-size: 100px;
+    color: ghostwhite;
+}
+
+.inicio_mae{
+    display: inline-block;
+    
+}
+
+.inicial{
+   
+   color: rgb(147, 148, 69);
+   font-size: 20px;
+   border: 2mm ridge  rgba(147, 33, 196, 0.6);
+   width: 70vmin;
+   font-family: 'Quicksand', sans-serif;  
+   
+}
+
+
+.h1{
+    
+    color: rgb(153, 153, 51);
+    width: 100px;
+    
+}
+
+.img{
+
+     width: 380px;
+     margin-top: 80px;
+     vertical-align: top;
+     margin: auto;
+     display: block;   
+}
+
+.lista{
+    
+    display: flex;
+    align-content: space-around;
+    margin: 50px;
+    justify-content: space;                  
+    list-style: none;
+    box-shadow: 12px 12px 2px 1px plum
+     
+}
+
+.lista1,.lista2{
+    list-style: none;
+    font-size: 20px;
+    border-spacing: 10px;
+    margin: auto;
+    display: block;
+}
+
+.p1{
+     font-size: 20px;
+
+}
+
+.conclusao{
+    margin: 100px;
+    border-style: dotted; color: purple; 
+    text-align: justify;
+}
+
+.paragraph{
+    font-size: 20px;
+}
+
+.conclusao_titulo{
+    font-size: 25px;
+    text-align: start;
+}
+
+.foto_conclusao{
+    
+    width: 80px;
+    align-items: flex-end;
+    float: left
+}
