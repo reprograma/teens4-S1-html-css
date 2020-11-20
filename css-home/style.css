@@ -23,8 +23,8 @@ ul li {
 
 body {
    /* background: lightgoldenrodyellow; */
-   background: url(../alunas/kristhel_masterson/Imagem/fundosistemasolar.jpg);
-   background-color: rgba(0, 0, 0, 0.8);
+   background-image: url(../alunas/kristhel_masterson/Imagem/fundosistemasolar.jpg);
+   opacity: rgba(0, 0, 0, 0.5);
 }
  /* barra de navegação */
 .navBar {
@@ -82,7 +82,7 @@ body {
     flex-flow: row wrap;
     padding: 2rem;
     margin: 50px 5%;
-    background: #7E459B40;
+    background: #7E459B70;
     border-radius: 10px;
  }
 
