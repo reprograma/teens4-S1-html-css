@@ -1,4 +1,4 @@
-## Exercícios para sexta-feira - 06/11/2020
+## Exercícios para sexta-feira - 19/11/2020
 
 - 1 – Criar uma pasta com um arquivo index.html, um style.css e uma pasta de imagens. Dentro do HTML fazer um `<link>` para o style.css. 
 - 2 – adicionar imagens ao seu html; 
@@ -7,6 +7,6 @@
 - 5 – Estilize a sua página web. Dê valores de altura (height) e largura (width) para suas imagens, mexa nas cores da seu artigo ou sua sessão, brinque um pouco com os estilos do CSS. 
 
 ### Exercícios Extra: 
-- 1 – criar listas falando sobre seus filmes, livros ou atividades favoritos;
+- 1 – criar listas no seu site falando sobre seus filmes, livros ou atividades favoritas ou algo sobre a curiosidade que está trazendo;
 - 2 – usar a propriedade de display no CSS para alinhar suas sessões;
 - 3 – Criar uma barra de navegação `<nav>` e/ou um rodapé `<footer>`.

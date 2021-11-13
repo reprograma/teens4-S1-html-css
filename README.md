@@ -1,75 +1,75 @@
-# Teens-HTML-CSS-I
-Turma teens Reprograma | Front-end básico | 2020 | Fundamentos de HTML e CSS I
+# Teens4-HTML-CSS-I
+Turma teens Reprograma | Front-end  | 2021 | Fundamentos de HTML e CSS I
 
-> Plano de aula para o dia 31 de outubro e 4 de novembro, sobre HTML e CSS básico.
+> Plano de aula para o dia 13 de novembro e 17 de novembro, sobre HTML e CSS básico.
 > Este arquivo será alimentado conforme o andamento da semana (:
 
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"  width="250">
 
 ---
 
-[link para o arquivo dontpad](http://dontpad.com/teenshtml1);
+[link para o arquivo dontpad](http://dontpad.com/teenshtml4);
 
 ---
 
-## CONTEÚDO AULA 31 OUTUBRO, SÁBADO, 13h30 - 17H30
+## CONTEÚDO AULA 13 DE NOVEMBRO, SÁBADO, 14H - 18H
 
-- [x] **Apresentações**
-- [x] **Combinados**
-- [x] **Apresentação PowerPoint parte1**
-  - [x] Cliente e Servidor
-  - [x] O que é linguagem de marcação de hipertexto? `<!DOCTYPE html>`
-  - [x] Elementos HTML: tags (etiquetas) e atributos
-  - [x] Elementos `<head>` e `<body>`
-- [x] **Preparando estrutura de desenvolvimento juntas**
-  - [x] Criando pastas e arquivos, baixando live-server
-- [x] **Mãos a obra, criando nosso primeiro html**
-    - [x] Tags usadas no `<head>` e no `<body>`
-    - [x] Exemplo com imagens `<img>` e seus atributos `src` `alt`, títulos `<h1>` e parágrafos `<p>`
-    - [x] Tags semânticas, como e porque usá-las! (:
-    - [x] `<header>` `<nav>` `<footer>` `<main>` `<section>` `<article>` `<ul>` `<ol>` `<li>` 
-    - [x] `<a>` - links em âncora, e seu atributo `href`
-- [x] **Intervalo** - 15min
-- [x] **Retomando tags no powerpoint + tirar dúvidas**  
-- [x] **Introdução CSS**
-  - [x] CSS - Folha de estilo em cascata
-    - [x] Diferentes formas de adicionar estilo à página
-      - [x] A tag e atributo `<style>`
-      - [x] Importar arquivo style.css através da tag `<link>`
-  - [x] - Estilizando o CSS juntas - propriedades básicas `color` `bg-color` `font-size` `font-family`
-  - [x] Seletores CSS - `.class` `#id` `elemento` `atributo`
-  - [x] Especificidade com seletores, propriedades CSS e efeito cascata
-- [x] **Powerpoint parte III retomando a tarde**
-    - [x] Responder dúvidas
-    - [x] Apresentar exercícios da semana, para entregar na sexta (06/11)
+- [] **Apresentações**
+- [] **Combinados**
+- [] **Apresentação PowerPoint parte1**
+  - [] Cliente e Servidor
+  - [] O que é linguagem de marcação de hipertexto? `<!DOCTYPE html>`
+  - [] Elementos HTML: tags (etiquetas) e atributos
+  - [] Elementos `<head>` e `<body>`
+- [] **Preparando estrutura de desenvolvimento juntas**
+  - [] Criando pastas e arquivos, baixando live-server
+- [] **Mãos a obra, criando nosso primeiro html**
+    - [] Tags usadas no `<head>` e no `<body>`
+    - [] Exemplo com imagens `<img>` e seus atributos `src` `alt`, títulos `<h1>` e parágrafos `<p>`
+    - [] Tags semânticas, como e porque usá-las! (:
+    - [] `<header>` `<nav>` `<footer>` `<main>` `<section>` `<article>` `<ul>` `<ol>` `<li>` 
+    - [] `<a>` - links em âncora, e seu atributo `href`
+- [] **Intervalo** - 15min
+- [] **Retomando tags no powerpoint + tirar dúvidas**  
+- [] **Introdução CSS**
+  - [] CSS - Folha de estilo em cascata
+    - [] Diferentes formas de adicionar estilo à página
+      - [] A tag e atributo `<style>`
+      - [] Importar arquivo style.css através da tag `<link>`
+  - [] - Estilizando o CSS juntas - propriedades básicas `color` `bg-color` `font-size` `font-family`
+  - [] Seletores CSS - `.class` `#id` `elemento` `atributo`
+  - [] Especificidade com seletores, propriedades CSS e efeito cascata
+- [] **Powerpoint parte III retomando a tarde**
+    - [] Responder dúvidas
+    - [] Apresentar exercícios da semana, para entregar na sexta (06/11)
   
 
 ---
 
 
-## CONTEÚDO AULA 4 DE NOVEMBRO, QUARTA, 13h30 - 17h30
-- [x] **Dúvidas da semana**
-- [x] **Usando o inspetor do navegador**
-- [x] **Reset básico - mexendo nos estilos padrão de página**
-  - [x] - elemento `*`
-  - [x] border-box vs content-box
-- [x] **Box-sizings (tamanho das caixas) e displays**
-  - [x] Blocos `<div>` e elementos em linha `<span>`, `<img>`
-  - [x] Displays block, inline, inline-block
-  - [x] Mexendo em bordas, margens, preenchimentos e conteúdo  
-    - [x] `border` `margin` `padding` `width` `height` 
-- [x] **Display flex - o famoso Flexbox**
-  - [x] Mães `<div>`as e filhas `<div>`inhas. Display na mãe, mexe as filhas.
-  - [x] Algumas propiedades e seus valores: `justify-content` `align-items` `align-content` `flex-direction` `flex-wrap ` 
-- [x] **Intervalo** - 15min
-- [x] **Tempo para dúvidas responder mais dúvidas :)**
-- [x] **Criando juntas**  
-- [x] **Mais algumas dicas importantes**
-  - [x] Endentar o código :)
-  - [x] Importando fontes externas (ex.: Google Fonts)
-  - [x] Imagens de fundo `background-image`
-  - [x] Nomeando classes pra não se perder, introdução ao método BEM
-- [x] **Retirar dúvidas sobre exercícios e falar sobre materiais e jogos de CSS disponíveis :)**
+## CONTEÚDO AULA 17 DE NOVEMBRO, QUARTA, 14H - 18H
+- [] **Dúvidas da semana**
+- [] **Usando o inspetor do navegador**
+- [] **Reset básico - mexendo nos estilos padrão de página**
+  - [] - elemento `*`
+  - [] border-box vs content-box
+- [] **Box-sizings (tamanho das caixas) e displays**
+  - [] Blocos `<div>` e elementos em linha `<span>`, `<img>`
+  - [] Displays block, inline, inline-block
+  - [] Mexendo em bordas, margens, preenchimentos e conteúdo  
+    - [] `border` `margin` `padding` `width` `height` 
+- [] **Display flex - o famoso Flexbox**
+  - [] Mães `<div>`as e filhas `<div>`inhas. Display na mãe, mexe as filhas.
+  - [] Algumas propiedades e seus valores: `justify-content` `align-items` `align-content` `flex-direction` `flex-wrap ` 
+- [] **Intervalo** - 15min
+- [] **Tempo para dúvidas responder mais dúvidas :)**
+- [] **Criando juntas**  
+- [] **Mais algumas dicas importantes**
+  - [] Endentar o código :)
+  - [] Importando fontes externas (ex.: Google Fonts)
+  - [] Imagens de fundo `background-image`
+  - [] Nomeando classes pra não se perder, introdução ao método BEM
+- [] **Retirar dúvidas sobre exercícios e falar sobre materiais e jogos de CSS disponíveis :)**
 
 ---
 
