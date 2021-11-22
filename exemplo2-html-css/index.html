@@ -1,0 +1,79 @@
+<!-- html:5 ou ! -atalho pra uma pré estrutura html5 -->
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- logo avengers no title -->
+    <link rel="shortcut icon" type="image/x-icon" href="./imagens/avengers-logo.png" />
+    <title>Vingadores - Marvel</title>
+    <!-- fonte Marvel, que busquei no site do googlefonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Marvel:ital,wght@0,400;0,700;1,400;1,700&family=Quicksand&display=swap" rel="stylesheet"> 
+
+    <!-- colocando um estilo css fora do html com a tag <link> -->
+    <link rel="stylesheet" href="./css/style.css" />
+
+    <!-- escrevendo css dentro do meu html  -->
+    <style>
+      /* h1 {
+            rgb (vermelho, verde, azul)
+            #vermelho, verde, azul 
+            color: #00f;
+            background-color: yellow;
+            text-align: center;
+        } */
+    </style>
+  </head>
+  <body>
+      <!-- pondo o estilo direto no elemento
+        <h1 style="color:red">Eu sou inevitável</h1> -->
+    <header class="cabecalho">
+      <nav class="navegacao">
+          <img class="navegacao__logo" src="https://br.digitalhouse.com/wp-content/uploads/2018/05/reprograma-fundos-claros.png" alt="logo da reprograma"/>
+          <ul class="navegacao__lista">
+              <li><a href="#filmes"> Conheça os filmes </a> </li>
+              <li><a href="#queridos"> Personagens queridos </a></li>
+              <li><a href="#saiba-mais"> Saiba mais</a></li>
+          </ul>
+      </nav>  
+      <h1 class="cabecalho__titulo">Eu sou inevitável</h1>
+      <a href="https://avengers.square-enix-games.com/pt-br/" target="_blank" > 
+      <img class="cabecalho__logo" src="./imagens/avengers-logo.png" alt="logotipo avengers">
+     </a>
+    </header>
+    <section class="listas">
+      <div class="listas__caixa">
+        <h2 id="queridos" class="listas__titulo">Personagens mais queridos</h2>
+        <!-- lista ordenada -->
+        <ol class="listas__personagens--queridos">
+          <li>Thor</li>
+          <li>Homem de ferro</li>
+          <li>Capitão américa</li>
+          <li>Homem aranha</li>
+        </ol>
+      </div>
+      <div class="listas__caixa caixa--sublinhada">
+        <h2 id="filmes" class="listas__titulo">Lista de filmes</h2>
+        <!-- lista não ordenada -->
+        <ul class="listas__filmes">
+          <li class="listas__filmes__item"><a href="https://pt.wikipedia.org/wiki/The_Avengers_(2012)"> Os Vingadores </a> </li>
+          <li class="listas__filmes__item">Era de Ultron</li>
+          <li class="listas__filmes__item">Guerra Infinita</li>
+          <li class="listas__filmes__item">Ultimato</li>
+        </ul>
+      </div>
+    </section>
+    <section>
+        <h2 id="saiba-mais" class="listas__titulo">Saiba mais</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis, similique? Totam, assumenda? Enim, deserunt! Saepe iusto facere quos, dolore cum, provident ad nam enim accusantium, deleniti tenetur necessitatibus mollitia aut!
+        Debitis, in dicta officiis fuga optio quaerat eius autem maiores architecto distinctio facere, excepturi culpa mollitia iste est fugiat nostrum iure, veniam consequatur eum deserunt! Deserunt animi quisquam repudiandae nulla?
+        Maiores quae, ipsum enim consequuntur est veritatis eveniet iste corporis, totam, soluta facilis? Asperiores veritatis saepe eos, minus placeat minima beatae voluptatem. Voluptatum cumque et, asperiores quasi quidem architecto consequuntur?
+        Vero laborum dolores libero, numquam nesciunt molestiae iure adipisci, dolorem assumenda magnam a vel expedita molestias quo? Fuga eum voluptates, voluptatem consectetur, ipsam soluta placeat aut impedit autem quibusdam vel.
+        Optio, molestiae! Fuga, alias distinctio dolore, vitae harum dolorum id perspiciatis quia hic iure modi autem voluptates qui unde voluptatibus quaerat, vero velit ullam sapiente sunt nisi eligendi atque facilis!</p>
+    </section>
+    <footer>
+        <h3>Feito com carinho em aula com alunas teens e liana e monitoras</h3>
+    </footer>
+  </body>
+</html>

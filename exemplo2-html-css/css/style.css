@@ -1,0 +1,123 @@
+/* 
+como escrever css!
+seletor { 
+    propriedade1: valor; 
+    propriedade2: valor;
+} */
+
+/* seletor da página inteira - RESET */
+*, body {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Marvel', sans-serif;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+ul > li {
+    list-style: none;
+}
+
+/* 
+h1 { 
+margin: 10px 200px;
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px; 
+
+    color: #00f;
+    background-color: yellow;
+    text-align: center;
+
+border: black 2px dashed; 
+    border-color: black;
+    border-width: 10px;
+    border-style: dotted; 
+}  */
+
+.navegacao {
+    background-color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navegacao__logo {
+    margin-left: 20px;
+    width: 200px;
+}
+
+.navegacao__lista {
+    color: #000;
+    font-size: 24px;
+    display: flex;
+}
+
+.navegacao__lista > li {
+    margin-right: 20px;
+}
+
+.cabecalho {
+    background-color: red;
+    background-image: url(https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/887695E80D569708E139460CFDC0BD7E4D2E78BE5B82672863E85223EE13DD07/scale?width=2880&aspectRatio=1.78&format=jpeg);
+    background-position: 50% 40%;
+    height: 90vh;
+}
+
+.cabecalho__titulo{
+    color: white;
+    font-size: 64px;
+}
+
+.cabecalho__logo {
+    width: 200px;
+    margin-left: 50px;
+    margin-top: 50px;
+    transition: 0.5s;
+}
+
+.cabecalho__logo:hover {
+    border: red solid; 
+    border-radius: 100px;
+} 
+
+.listas__caixa {
+    margin: 20px;
+    
+}
+
+.listas__titulo {
+    font-size: 32px;
+    color: blue;
+    
+}
+
+.caixa--sublinhada {
+    border-bottom: 5px solid blue;
+}
+
+.listas__filmes__item {
+    padding: 20px; 
+   
+}
+
+.listas__filmes__item:last-child {
+    color: red;
+}
+
+
+.listas__filmes__item:hover {
+    cursor: pointer;
+    color: green;
+} 
+
+footer {
+    background-color: gray;
+    text-align: center;
+    height:50px;
+    color: white;
+    font-size: 28px;
+}
