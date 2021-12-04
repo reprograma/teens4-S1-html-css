@@ -1,0 +1,167 @@
+    h1 { background-color: rgb(177, 22, 156);
+            text-align: center;
+            box-sizing: border-box;
+            padding: 5%;
+            font-size: 250%;
+            margin: 10px 200px;
+            margin-top: 50px;
+            margin-right: 50px;
+            margin-left: 50px;
+            margin-bottom: 50px; 
+            border-width: 2px;
+            border-style: solid;
+            border-color: white;
+        } 
+        body {font-style: italic;
+            font-family: 'Louvor', cursiva;
+            background-color: #c482a5;
+            color: black;
+            font-size: 20px;
+        }
+      
+      h2 { 
+        border-width: 3px;
+        border-style: solid;
+     display: block;
+    background-color: rgb(177, 22, 156);
+     text-align: center;
+     border-color: rgb(252, 249, 249);}
+
+   h3 {display: inline-block;
+    background-color: rgb(177, 22, 156);
+    text-align: center;
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;
+    }
+
+    h4 { border-width: 1px;
+        border-style: solid;
+       margin-bottom: 50px; 
+        background-color: rgb(177, 22, 156);
+    text-align: center;
+border-color: white;
+font-size:30px;
+display: inline;}
+
+.viopar{margin:0px 25px;
+    border-radius:20px;
+    border-style:solid;
+    color: blueviolet;
+    border-width:2px;}
+    
+   .violinofilho { 
+     display: inline-flex;
+    align-items: center;}
+
+    .curiosidades{margin: 0px 25px;}
+.orquestra{justify-content: space-around;
+image-rendering: auto;
+margin:0px 30px;}
+
+
+
+.tocandovi{margin:0px 25px;
+border-radius:20px;
+border-style:solid;
+color: blueviolet;
+border-width:2px;}
+
+.bracovio{margin:0px 25px;
+    border-radius:20px;
+    border-style:solid;
+    color: blueviolet;
+    border-width:2px;}
+
+    
+    .tocandoor{margin:0px 25px;
+        border-radius:20px;
+        border-style:solid;
+        color: blueviolet;
+        border-width:2px;}
+   
+.euemeuviolino { display: flex;
+    justify-content: space-around;
+    align-items: center;
+   
+}
+
+.festiv{  border-radius:20px;
+    border-style:solid;
+    color: rgb(206, 57, 193);
+    border-width:4px;}
+     
+ .olhando{ border-radius:20px;
+    border-style:solid;
+    color: rgb(206, 57, 193);
+    border-width:4px;}   
+
+ .chav{ border-radius:20px;
+        border-style:solid;
+        color: rgb(206, 57, 193);
+        border-width:4px;}
+        
+.relatoapresentacao{text-align:right;}
+
+
+  
+.tocando {display: flex;
+        justify-content: space-around;
+        align-items: center;}
+        .relato {margin: 0px 25px;}
+    
+ .chaveiro{display: flex;
+    justify-content: space-around;
+    align-items: center;}
+            
+            .relatochaveiro {margin: 0px 25px;}
+
+            .curiosidades--v{height: 10%;
+                font-size: 35px;
+             }
+    
+
+  .naipes--orq{margin-bottom: 100px;
+padding: 2px;
+display: inline-block;
+;} 
+
+.eu-e-meu-v{font-size: 20px;
+    display: flex;
+}
+
+footer {
+    background-color: rgb(175, 136, 164);
+    text-align: center;
+    height:85px;
+    color: white;
+    font-size: 28px;
+    align-items: center;
+   
+}
+
+ul{ list-style: none;
+    list-style-type: none;
+    margin: 10px;
+    padding: 0px;
+    background-color: rgb(175, 136, 164);
+    cursor: pointer;
+font-style: italic;
+width:100%;
+align-items: center;
+
+}
+li{ align-items: center;
+    display: inline;
+    margin:20px;
+   
+}
+
+.gifviolin{ background-image:rgb(175, 136, 164);
+    align-items: center;
+    height:20px;
+font-size: 20px;}
+
+
+
+

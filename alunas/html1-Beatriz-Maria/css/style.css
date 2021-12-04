@@ -1,0 +1,103 @@
+.cabecalho {
+    background-color: rgb(46, 45, 45);
+    height: 40vh;
+    padding: 0px;
+    margin: 0px;
+}
+
+.cabecalho_imagem {
+    margin-top: 14px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
+    margin: 0px;
+}
+
+.cabecalho_subtitulo--titulo {
+    color: purple;
+    border-top-width: 90px;
+    margin-top: 150px;
+    margin-left: 20px;
+}
+
+.cabecalho_subtitulo--lista {
+    color: rgb(0, 0, 0);
+    margin-top: 0px;
+    margin-bottom: 40px;
+    margin-left: 20px;
+}
+
+*,
+body {
+    font-family: 'Outfit', sans-serif;
+}
+
+.whacking_image {
+    width: 500px;
+    margin: 30px;
+}
+
+.whacking {
+    margin: 20px
+}
+
+.locking_image {
+    width: 500px;
+    margin: 30px;
+}
+
+.locking {
+    margin: 20px
+}
+
+.popping {
+    margin: 20px
+}
+
+.popping_image {
+    width: 500px;
+    margin: 30px;
+}
+
+.footer {
+    font-weight: bold;
+    padding: 20px;
+    margin-right: 200px;
+    color: purple;
+}
+
+.link_video_popping {
+    color: purple;
+}
+
+.link_locking {
+    color: purple;
+}
+
+.link_whacking--videos {
+    color: purple;
+}
+
+.link_whacking--batalhas {
+    color: purple;
+}
+
+.whacking_article {
+    margin-right: 200px;
+}
+
+.locking_article {
+    margin-right: 200px;
+}
+
+.popping_article {
+    margin-right: 200px;
+}

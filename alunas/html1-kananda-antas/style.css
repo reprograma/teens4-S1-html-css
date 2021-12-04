@@ -1,0 +1,45 @@
+.cabecalhotitulo { 
+    margin: 10px 200px;
+    margin-top: 10px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 50px; 
+    color:rgb(0, 0, 0);
+    text-align: start;
+    }
+
+.sobremim {
+    margin: 10px 200px;
+    margin-bottom: 5px;
+    margin-right: 20px;
+    margin-left: 20px;
+    }
+
+.serie { 
+    display: inline;
+}    
+
+.series {
+    margin: 10px 200px;
+    margin-right: 20px;
+    margin-left: 20px; 
+}
+
+.instagram {
+    margin: 10px 200px;
+    margin-right: 20px;
+    margin-left: 20px; 
+}
+
+.footer {
+    background-color:grey;
+    text-align: center;
+    height:30px;
+    color: white;
+    font-size: 25px;
+    margin: 10px 200px;
+    margin-top: 25px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px; 
+}

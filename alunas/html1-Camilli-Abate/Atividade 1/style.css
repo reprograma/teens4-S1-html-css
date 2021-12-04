@@ -1,0 +1,69 @@
+* {
+    margin: 0cm;
+}
+
+body {
+    background-color: #fae3e7;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+
+h1 {
+    height: 170px;
+    background-color: pink;
+    color: purple;
+    text-align: center;
+    font-size: 120px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.bemvindo {
+    background-color: pink;
+    text-align: center;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.guias {
+    background-color: plum;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.guias__item:hover {
+    cursor: pointer;
+    color: purple;
+}
+
+.images {
+    display: flex;
+    height: 225px;
+    margin-left: 70px;
+    margin-right: 45px;
+}
+
+.content {
+    display: flex;
+    flex-direction: row;
+    margin-top: 100px;
+    border-bottom: outset;
+}
+
+.description {
+    background-color: rgb(255, 241, 249);
+    margin-right: 340px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+    padding: 15px;
+}
+
+.rodape {
+    display: flex;
+    text-align: right;
+    margin-left: 900px;
+    margin-top: 25px;
+    color: rgb(102, 101, 101);
+}

@@ -1,0 +1,104 @@
+*{
+    margin-bottom: 27px;
+}
+body{
+    display: block;
+    margin: 8px;
+    background-color: rgb(163, 171, 199) ;
+    color:black ;
+}
+header{
+    background-image: url("https://image.freepik.com/vetores-gratis/citacao-de-poder-fnto-de-icones-de-simbolo-da-moda-com-o-retrato-de-frida-kahlo-diamantes-rosas-e-simbolos-femininos-emblemas-de-remendo-adesivos-alfinetes-slogan-do-feminismo-mulher-certa_163983-806.jpg" ); 
+    height: 282px;
+    margin: -8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+} 
+div{
+    display: inline-block;
+    justify-content: start;
+    align-items: center;
+}
+h1{
+    margin-left: 29%;
+    margin-top: -77-12pxpx;
+    font-size: 103px;
+}
+.navegacao__lista{
+    margin-right: 11px;
+    color: black;
+}
+.saibamais{
+    color:white
+}
+.imagemadireita{
+    margin-top:11px;
+    width: 103px;
+    margin-right: 91%;
+    border-radius: 59px;
+}
+.imagemadireita:hover{
+    width: 130px;
+}
+h2{
+    font-size: 31px;
+}
+.primeirotexto{
+    width: 346px;
+}
+.lista_de_curiosidades{
+    width: 276px;
+}
+h3{
+    font-size: 29px; 
+}
+.fotos{
+    display: inline-block;
+}
+.imagens {
+    margin: 39px;
+    width: 200px;
+    height: 170px;
+    border-radius: 100px;
+    justify-content: space-around;
+    align-items: center;
+} 
+p.textodafoto{
+    width:261px;
+    display: table;
+    text-align: center;
+}
+h4{
+    font-family: 'Roboto Slab', serif;
+}
+footer{
+    border-radius: 100px;
+    justify-content: space-around;
+    align-items: center;
+    height: 183px;
+    margin: -10px;
+    display: flex;
+} 
+.instagram{
+    height: 128px;
+    border-radius: 62px;
+}
+.instagram:hover{
+    width: 140px;
+}
+.facebook{
+    height: 100px;
+    border-radius: 62px;
+}
+.facebook:hover{
+    width:110px;
+}
+.twitter{
+    height: 100px;
+    border-radius: 62px;
+}
+.twitter:hover{
+    width: 110px;
+}

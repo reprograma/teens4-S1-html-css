@@ -23,7 +23,9 @@ ul li {
 
 body {
    background: lightgoldenrodyellow; 
-   background-image: url();
+   background-image: url(https://image.freepik.com/vetores-gratis/citacao-de-poder-fnto-de-icones-de-simbolo-da-moda-com-o-retrato-de-frida-kahlo-diamantes-rosas-e-simbolos-femininos-emblemas-de-remendo-adesivos-alfinetes-slogan-do-feminismo-mulher-certa_163983-806.jpg);
+   background-size: contain;
+   background-repeat: repeat;
    opacity: rgba(0, 0, 0, 0.5);
 }
  /* barra de navegação */
@@ -33,6 +35,8 @@ body {
     align-items: center;
     background-color: #7E459B;
     height: 75px;
+    position:sticky;
+    top:0;
 }
 
 .NavBar__img {
@@ -60,8 +64,8 @@ body {
 
  /* header ou cabeçalho da página */
  .cabecalho {
-    background: url(../img-home/banner2.jpg) no-repeat center;
-    background-color: lightgoldenrodyellow;
+    background: url(https://media4.giphy.com/media/lkmM9NBSGUbKde24c9/giphy.gif?cid=ecf05e47jwdb480goi2ekg688umtamh0dnoy2d6fhbcc7fug&rid=giphy.gif&ct=s) no-repeat center;
+    background-color: #7E459B;
     background-size: contain;
     height: 75vh;
     display: flex;
@@ -71,14 +75,20 @@ body {
  }
 
  .cabecalho__titulo {
-    color:#7E459B;
+    color: #fff;
     text-align: center;
+    font-size: 42px;
+    font-weight: 700;
+    max-width: 450px;
+    margin: auto;
+    padding: 25px 0;
  }
 
  /* sessão de alunas */
  .alunasSection {
     display: flex; 
     justify-content: space-around;
+    align-items: center;
     flex-flow: row wrap;
     padding: 2rem;
     margin: 50px 5%;
@@ -94,6 +104,7 @@ body {
     display: block;
     border-radius: 5px;
     max-width: 300px;
+    text-align: center;     
  }
 
  .alunaName {
